@@ -1,0 +1,10 @@
+Line 15: Class RichTextLib.RichTextBox of control Text1 was not a loaded control class.
+Line 27: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 21: The property name _ExtentX in Text1 is invalid.
+Line 22: The property name _ExtentY in Text1 is invalid.
+Line 23: The property name _Version in Text1 is invalid.
+Line 25: The property name TextRTF in Text1 is invalid.
+Line 30: The property name _ExtentX in CommonDialog1 is invalid.
+Line 31: The property name _ExtentY in CommonDialog1 is invalid.
+Line 32: The property name _Version in CommonDialog1 is invalid.
+Line 33: The property name DefaultExt in CommonDialog1 is invalid.
